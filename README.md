@@ -1,25 +1,51 @@
-# tickertwister
- 
-- 👋 Hi, I’m @BobCeulemans
-- 👀 I’m interested in programming.
-- 🌱 I’m currently learning R and Pyhton.
-- 💞️ I’m looking to collaborate on fun projects to improve my skills.
-- 📫 How to reach me: github.
 
-I am currently working on following Python projct:
+  `:ddNMd-                         -o--`
+ -sMMMMh:                          `+N+``
+ yMMMMMs`     .....-/-...           `mNh/
+ yMMMMMmh+-`:sdmmmmmmMmmmmddy+-``./ddNMMm
+ yNMMNMMMMNdyyNNMMMMMMMMMMMMMMMhyshNmMMMm
+ :yMMMMMMMMMNdooNMMMMMMMMMMMMMMMMNmy:mMMd
+  +MMMMMMMMMmy:sNMMMMMMMMMMMMMMMMMMMmshs-
+  :hNMMMMMMN+-+MMMMMMMMMMMMMMMMMMMMMMMs.
+ .omysmNNhy/+yNMMMMMMMMMMNMMMMMMMMMNdNNy-
+ /hMM:::::/hNMMMMMMMMMMMm/-yNMMMMMMN.mMNh`
+.hMMMMdhdMMMMMMMMMMMMMMmo  `sMMMMMMN mMMm-
+:dMMMMMMMMMMMMMMMMMMMMMdo+  oMMMMMMN`smMNo`
+/dMMMMMMMMMMMMMMMMMMMMMNd/` :yMMMMMN:-hMMM.
+:dMMMMMMMMMMMMMMMMMMMMMNh`  oMMMMMMNo/dMNN`
+:hMMMMMMMMMMMMMMMMMMMMMMNs--sMMMMMMMNNmy++`
+ sNMMMMMMMMMMMMMMMMMMMMMMMmmNMMMMMMNho::o.
+ :yMMMMMMMMMMMMMNho+sydNNNNNNNmysso/` -//
+  /dMMMMMMMMMMMMMs-  ````````..``
+   .oMMMMMMMMMMMMNs`               ./y:`
+     +dNMMNMMMMMMMmy`          ``./ys.
+      `/hMMMMMMMMMMMNo-``    `.+yy+-`
+        `-/hmNMNMMMMMMmmddddhhy/-`
+            `-+oooyMMMdsoo+/:.
 
 
-###############################################################################
+▄▄▄█████▓ ██▓ ▄████▄   ██ ▄█▀▓█████  ██▀███  ▄▄▄█████▓ █     █░ ██▓  ██████ ▄▄▄█████▓▓█████  ██▀███  
+▓  ██▒ ▓▒▓██▒▒██▀ ▀█   ██▄█▒ ▓█   ▀ ▓██ ▒ ██▒▓  ██▒ ▓▒▓█░ █ ░█░▓██▒▒██    ▒ ▓  ██▒ ▓▒▓█   ▀ ▓██ ▒ ██▒
+▒ ▓██░ ▒░▒██▒▒▓█    ▄ ▓███▄░ ▒███   ▓██ ░▄█ ▒▒ ▓██░ ▒░▒█░ █ ░█ ▒██▒░ ▓██▄   ▒ ▓██░ ▒░▒███   ▓██ ░▄█ ▒
+░ ▓██▓ ░ ░██░▒▓▓▄ ▄██▒▓██ █▄ ▒▓█  ▄ ▒██▀▀█▄  ░ ▓██▓ ░ ░█░ █ ░█ ░██░  ▒   ██▒░ ▓██▓ ░ ▒▓█  ▄ ▒██▀▀█▄  
+  ▒██▒ ░ ░██░▒ ▓███▀ ░▒██▒ █▄░▒████▒░██▓ ▒██▒  ▒██▒ ░ ░░██▒██▓ ░██░▒██████▒▒  ▒██▒ ░ ░▒████▒░██▓ ▒██▒
+  ▒ ░░   ░▓  ░ ░▒ ▒  ░▒ ▒▒ ▓▒░░ ▒░ ░░ ▒▓ ░▒▓░  ▒ ░░   ░ ▓░▒ ▒  ░▓  ▒ ▒▓▒ ▒ ░  ▒ ░░   ░░ ▒░ ░░ ▒▓ ░▒▓░
+    ░     ▒ ░  ░  ▒   ░ ░▒ ▒░ ░ ░  ░  ░▒ ░ ▒░    ░      ▒ ░ ░   ▒ ░░ ░▒  ░ ░    ░     ░ ░  ░  ░▒ ░ ▒░
+  ░       ▒ ░░        ░ ░░ ░    ░     ░░   ░   ░        ░   ░   ▒ ░░  ░  ░    ░         ░     ░░   ░ 
+          ░  ░ ░      ░  ░      ░  ░   ░                  ░     ░        ░              ░  ░   ░     
+             ░                                                                                       
+--------------------------------------------------------------------------------
+ +-+-+-+-+-+-+-+-+-+-+-+-+-+  ©2022 Bob Ceulemans. All rights reserved.
+ |t|i|c|k|e|r|t|w|i|s|t|e|r|  Downloading Market Data & Financial Analysis.
+ +-+-+-+-+-+-+-+-+-+-+-+-+-+  Financial Data from Yahoo!™ Finance.
+--------------------------------------------------------------------------------
 
-            _   _      _             _            _     _            
-           | |_(_) ___| | _____ _ __| |___      _(_)___| |_ ___ _ __ 
-           | __| |/ __| |/ / _ \ '__| __\ \ /\ / / / __| __/ _ \ '__|
-           | |_| | (__|   <  __/ |  | |_ \ V  V /| \__ \ ||  __/ |   
-            \__|_|\___|_|\_\___|_|   \__| \_/\_/ |_|___/\__\___|_|
+ (Type 'quit' to end the program!)
+
+ Type STOCK TICKER here please: 
 
 
-         << Downloading Market Data & Financial Analysis in Python3 >>
 
-###############################################################################
-               
-                       (Arriving soon on my GitHub Repo)
+			---------------------------------
+ 			! COMING SOON ON MY GitHub REPO !
+			---------------------------------
