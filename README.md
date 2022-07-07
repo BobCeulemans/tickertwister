@@ -1,46 +1,17 @@
-
-  `:ddNMd-                         -o--`
- -sMMMMh:                          `+N+``
- yMMMMMs`     .....-/-...           `mNh/
- yMMMMMmh+-`:sdmmmmmmMmmmmddy+-``./ddNMMm
- yNMMNMMMMNdyyNNMMMMMMMMMMMMMMMhyshNmMMMm
- :yMMMMMMMMMNdooNMMMMMMMMMMMMMMMMNmy:mMMd
-  +MMMMMMMMMmy:sNMMMMMMMMMMMMMMMMMMMmshs-
-  :hNMMMMMMN+-+MMMMMMMMMMMMMMMMMMMMMMMs.
- .omysmNNhy/+yNMMMMMMMMMMNMMMMMMMMMNdNNy-
- /hMM:::::/hNMMMMMMMMMMMm/-yNMMMMMMN.mMNh`
-.hMMMMdhdMMMMMMMMMMMMMMmo  `sMMMMMMN mMMm-
-:dMMMMMMMMMMMMMMMMMMMMMdo+  oMMMMMMN`smMNo`
-/dMMMMMMMMMMMMMMMMMMMMMNd/` :yMMMMMN:-hMMM.
-:dMMMMMMMMMMMMMMMMMMMMMNh`  oMMMMMMNo/dMNN`
-:hMMMMMMMMMMMMMMMMMMMMMMNs--sMMMMMMMNNmy++`
- sNMMMMMMMMMMMMMMMMMMMMMMMmmNMMMMMMNho::o.
- :yMMMMMMMMMMMMMNho+sydNNNNNNNmysso/` -//
-  /dMMMMMMMMMMMMMs-  ````````..``
-   .oMMMMMMMMMMMMNs`               ./y:`
-     +dNMMNMMMMMMMmy`          ``./ys.
-      `/hMMMMMMMMMMMNo-``    `.+yy+-`
-        `-/hmNMNMMMMMMmmddddhhy/-`
-            `-+oooyMMMdsoo+/:.
+I am currently working on following Python projct:
 
 
-▄▄▄█████▓ ██▓ ▄████▄   ██ ▄█▀▓█████  ██▀███  ▄▄▄█████▓ █     █░ ██▓  ██████ ▄▄▄█████▓▓█████  ██▀███  
-▓  ██▒ ▓▒▓██▒▒██▀ ▀█   ██▄█▒ ▓█   ▀ ▓██ ▒ ██▒▓  ██▒ ▓▒▓█░ █ ░█░▓██▒▒██    ▒ ▓  ██▒ ▓▒▓█   ▀ ▓██ ▒ ██▒
-▒ ▓██░ ▒░▒██▒▒▓█    ▄ ▓███▄░ ▒███   ▓██ ░▄█ ▒▒ ▓██░ ▒░▒█░ █ ░█ ▒██▒░ ▓██▄   ▒ ▓██░ ▒░▒███   ▓██ ░▄█ ▒
-░ ▓██▓ ░ ░██░▒▓▓▄ ▄██▒▓██ █▄ ▒▓█  ▄ ▒██▀▀█▄  ░ ▓██▓ ░ ░█░ █ ░█ ░██░  ▒   ██▒░ ▓██▓ ░ ▒▓█  ▄ ▒██▀▀█▄  
-  ▒██▒ ░ ░██░▒ ▓███▀ ░▒██▒ █▄░▒████▒░██▓ ▒██▒  ▒██▒ ░ ░░██▒██▓ ░██░▒██████▒▒  ▒██▒ ░ ░▒████▒░██▓ ▒██▒
-  ▒ ░░   ░▓  ░ ░▒ ▒  ░▒ ▒▒ ▓▒░░ ▒░ ░░ ▒▓ ░▒▓░  ▒ ░░   ░ ▓░▒ ▒  ░▓  ▒ ▒▓▒ ▒ ░  ▒ ░░   ░░ ▒░ ░░ ▒▓ ░▒▓░
-    ░     ▒ ░  ░  ▒   ░ ░▒ ▒░ ░ ░  ░  ░▒ ░ ▒░    ░      ▒ ░ ░   ▒ ░░ ░▒  ░ ░    ░     ░ ░  ░  ░▒ ░ ▒░
-  ░       ▒ ░░        ░ ░░ ░    ░     ░░   ░   ░        ░   ░   ▒ ░░  ░  ░    ░         ░     ░░   ░ 
-          ░  ░ ░      ░  ░      ░  ░   ░                  ░     ░        ░              ░  ░   ░     
-             ░                                                                                       
---------------------------------------------------------------------------------
- +-+-+-+-+-+-+-+-+-+-+-+-+-+  ©2022 Bob Ceulemans. All rights reserved.
- |t|i|c|k|e|r|t|w|i|s|t|e|r|  Downloading Market Data & Financial Analysis.
- +-+-+-+-+-+-+-+-+-+-+-+-+-+  Financial Data from Yahoo!™ Finance.
---------------------------------------------------------------------------------
+###############################################################################
 
- (Type 'quit' to end the program!)
+            _   _      _             _            _     _            
+           | |_(_) ___| | _____ _ __| |___      _(_)___| |_ ___ _ __ 
+           | __| |/ __| |/ / _ \ '__| __\ \ /\ / / / __| __/ _ \ '__|
+           | |_| | (__|   <  __/ |  | |_ \ V  V /| \__ \ ||  __/ |   
+            \__|_|\___|_|\_\___|_|   \__| \_/\_/ |_|___/\__\___|_|
 
- Type STOCK TICKER here please: 
 
+         << Downloading Market Data & Financial Analysis in Python3 >>
+
+###############################################################################
+               
+                       (Arriving soon on my GitHub Repo)
