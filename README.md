@@ -1,4 +1,4 @@
-I am currently working on following Python projct:
+I am currently working on following Python project:
 
 
 ###############################################################################
